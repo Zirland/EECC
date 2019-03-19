@@ -1125,37 +1125,37 @@ Uvedené podmínky Úřad může stanovit, nestanoví-li je tento zákon, všeob
 (4) Doba platnosti oprávnění k využívání čísel podle odstavce 1 písm. e) musí být přiměřená dané službě elektronických komunikací a v souladu s číslovacím plánem, harmonizačními záměry Evropské unie, mezinárodními smlouvami, kterými je Česká republika vázána a které byly vyhlášeny ve Sbírce zákonů nebo ve Sbírce mezinárodních smluv, a bezpečností státu.
 
 § 33
-Přístup k jednotnému evropskému číslu tísňového volání a národním číslům tísňových volání
+Přístup k tísňovým službám a tísňová komunikace
 
-(1) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací pro originaci národních volání je povinen umožnit všem svým koncovým uživatelům, včetně uživatelů veřejných telefonních automatů, volání, které je bezplatné a které nevyžaduje použití jakéhokoliv platebního prostředku, na čísla tísňového volání. Čísly tísňového volání jsou jednotné evropské číslo tísňového volání (112) a národní čísla tísňového volání stanovená v číslovacím plánu. Čísla tísňového volání slouží k oznámení událostí v případech, kdy je ohrožen život, zdraví, majetek nebo veřejný pořádek.
+(1) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen poskytovat všem svým koncovým uživatelům, včetně uživatelů veřejných telefonních automatů, přístup k tísňovým službám prostřednictvím tísňové komunikace, která je bezplatná a která nevyžaduje použití jakéhokoliv platebního prostředku, na tísňová čísla. Tísňovými čísly jsou jednotné evropské tísňové číslo 112 a národní tísňová čísla stanovená v číslovacím plánu. Tísňová čísla slouží k oznámení událostí v případech, kdy je ohrožen život, zdraví, majetek nebo veřejný pořádek.
 
-(2) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací pro originaci národních volání prostřednictvím veřejné pevné komunikační sítě je povinen poskytovat bezodkladně a bezplatně podnikateli zajišťujícímu připojení k veřejné pevné komunikační síti subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání, aktuální osobní údaje všech svých účastníků-fyzických osob a identifikační údaje všech svých účastníků-právnických osob pro lokalizaci, popřípadě identifikaci volajícího při volání na čísla tísňových volání. Tyto údaje je poskytující podnikatel povinen aktualizovat průběžně, nejméně však jednou za 14 dnů.
+(2) Podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím veřejné pevné komunikační sítě je povinen poskytovat bezodkladně a bezplatně podnikateli zajišťujícímu připojení centra tísňové komunikace k veřejné pevné komunikační síti aktuální údaje všech svých účastníků, které jsou potřebné pro lokalizaci a identifikaci účastníka při tísňové komunikaci. Tyto údaje je poskytující podnikatel povinen aktualizovat průběžně, nejméně však jednou za 14 dnů.
 
-(3) Podnikatel zajišťující připojení k veřejné pevné komunikační síti subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání, je povinen
+(3) Podnikatel zajišťující připojení centra tísňové komunikace k veřejné pevné komunikační síti je povinen
 
 a) zřídit a vést aktuální databázi údajů uvedených v odstavci 2 včetně údajů o svých účastnících veřejně dostupné telefonní služby a
 
-b) zajistit subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání, bezodkladné a bezplatné zpřístupnění jednotlivých údajů z databáze uvedené v písmenu a) způsobem umožňujícím dálkový přístup včetně bezodkladného a bezplatného zpětného přenosu údajů z této databáze.
+b) zajistit bezodkladné a bezplatné zpřístupnění jednotlivých údajů z databáze uvedené v písmenu a) centru tísňové komunikace způsobem umožňujícím dálkový přístup včetně bezodkladného a bezplatného zpětného přenosu údajů z této databáze.
 
-Údaje vedené v databázi lze využívat jen pro lokalizaci, popřípadě identifikaci volajícího při volání na čísla tísňových volání.
+Údaje vedené v databázi lze využívat jen pro lokalizaci a identifikaci účastníka při tísňové komunikaci.
 
-(4) Podnikateli uvedenému v odstavci 3 náleží úhrada nákladů za zřízení a vedení databáze podle odstavce 3 písm. a) od subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání. Výši a způsob jejich úhrady stanoví prováděcí právní předpis.
+(4) Podnikateli uvedenému v odstavci 3 náleží úhrada nákladů za zřízení a vedení databáze podle odstavce 3 písm. a) od subjektu, který provozuje centrum tísňové komunikace. Výši a způsob jejich úhrady stanoví prováděcí právní předpis.
 
-(5) Podnikatel zajišťující veřejnou mobilní komunikační síť je povinen u všech volání na čísla tísňového volání bezodkladně zpřístupnit subjektu, který provozuje pracoviště pro příjem těchto volání, lokalizační (§ 91) a jiné údaje, které umožňují identifikaci volajícího.
+(5) Podnikatel zajišťující veřejnou mobilní komunikační síť je povinen u každé tísňové komunikace bezodkladně zpřístupnit centru tísňové komunikace lokalizační údaje a údaje, které umožňují identifikaci uživatele.
 
-(6) Podnikatel uvedený v odstavci 1 je povinen zajistit informování veřejnosti o existenci a podmínkách používání čísel tísňového volání, zejména v seznamech telefonních čísel účastníků veřejně dostupné telefonní služby (dále jen „účastnické seznamy“), v místech umístění veřejných telefonních automatů a způsobem umožňujícím dálkový přístup.
+(6) Podnikatel uvedený v odstavci 1 je povinen zajistit informování veřejnosti o existenci a podmínkách používání tísňových čísel a jejich vlastnostech zajišťujících dostupnost, zejména prostřednictvím iniciativ konkrétně zaměřených na osoby cestující mezi členskými státy, v seznamech telefonních čísel účastníků veřejně dostupné telefonní služby (dále jen „účastnické seznamy“) a v místech umístění veřejných telefonních automatů. Informace podnikatel poskytuje způsobem umožňujícím dálkový přístup a ve formátu, který řeší problém různých druhů zdravotního postižení.
 
-(7) Podnikatel zajišťující síť elektronických komunikací nese veškeré náklady související s originací a přenosem volání na čísla tísňového volání a informace o tom, kde se volající nachází, ve své síti. Tato povinnost platí i pro přenos těchto volání a přenos informace o tom, kde se volající nachází, ze sítí jiných podnikatelů.
+(7) Podnikatel zajišťující síť elektronických komunikací nese veškeré náklady související se vznikem a přenosem tísňové komunikace a informace o tom, kde se volající nachází, ve své síti. Tato povinnost platí i pro přenos tísňové komunikace a přenos informace o tom, kde se volající nachází, ze sítí jiných podnikatelů.
 
-(8) V případech, kdy je ohroženo nebo přerušeno nepřetržité poskytování služby volání na čísla tísňového volání, je Úřad oprávněn rozhodnout o opatřeních nezbytných k udržení nebo obnovení tohoto poskytování a v případě potřeby uloží podniku s významnou tržní silou na relevantním trhu (§ 53 odst. 1), který poskytuje veřejně dostupnou službu elektronických komunikací pro originaci národních volání v pevném místě, povinnost, aby zajistil další poskytování této služby.
+(8) V případech, kdy je ohroženo nebo přerušeno nepřetržité poskytování přístupu k tísňovým službám prostřednictvím tísňové komunikace, je Úřad oprávněn rozhodnout o opatřeních nezbytných k udržení nebo obnovení tohoto poskytování a v případě potřeby uloží podniku s významnou tržní silou na relevantním trhu (§ 53 odst. 1), který poskytuje veřejně dostupnou telefonní službu v pevném místě, povinnost, aby zajistil další poskytování této služby.
 
 (9) Rozsah, formu a způsob předávání údajů podle odstavce 2, formu a způsob vedení databáze podle odstavce 3 písm. a) a rozsah, formu a způsob předávání údajů podle odstavce 3 písm. b) a odstavce 5 stanoví prováděcí právní předpis.
 
-(10) Pokud účastník, popřípadě uživatel, uskutečňuje zlomyslná volání na čísla tísňového volání, je podnikatel, v jehož síti bylo takové volání započato, povinen na žádost subjektu, který provozuje pracoviště pro příjem volání na čísla tísňového volání, znemožnit ve své síti přístup telekomunikačního koncového zařízení, ze kterého jsou tato volání uskutečňována, s výjimkou veřejných telefonních automatů, k veřejné komunikační síti. Žádost podle věty první musí být učiněna v elektronické podobě. Subjekt provozující pracoviště pro příjem volání na čísla tísňového volání je oprávněn dočasně odmítnout komunikaci uskutečňovanou prostřednictvím telekomunikačního koncového zařízení, ze kterého bylo uskutečňováno opakované zlomyslné volání.
+(10) Pokud účastník, popřípadě uživatel, uskutečňuje zlomyslnou komunikaci na tísňová čísla, je podnikatel, v jehož síti byla taková komunikace započata, povinen na žádost subjektu, který provozuje centrum tísňové komunikace, znemožnit ve své síti přístup telekomunikačního koncového zařízení, ze kterého je tato komunikace uskutečňována, s výjimkou veřejných telefonních automatů, k veřejné komunikační síti. Žádost podle věty první musí být učiněna v elektronické podobě. Subjekt provozující centrum tísňové komunikace je oprávněn dočasně odmítnout komunikaci uskutečňovanou prostřednictvím telekomunikačního koncového zařízení, ze kterého byla opakovaně uskutečňována zlomyslná komunikace.
 
 (11) O opětovném umožnění přístupu telekomunikačního koncového zařízení k veřejné komunikační síti rozhodne Úřad na žádost dotčeného účastníka. Při rozhodování Úřad přihlédne k závažnosti jednání, zejména ke způsobu, rozsahu a následkům zlomyslného volání.
 
-(12) Zlomyslným voláním na čísla tísňového volání se rozumí volání na tato čísla za jiným účelem, než který je stanoven v odstavci 1.
+(12) Zlomyslnou komunikací na tísňová čísla se rozumí komunikace uskutečňovaná na tato čísla za jiným účelem, než který je stanoven v odstavci 1.
 
 § 33a
 Přístup k evropským harmonizovaným číslům
@@ -1163,6 +1163,13 @@ Přístup k evropským harmonizovaným číslům
 (1) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen umožnit všem svým koncovým uživatelům, včetně uživatelů veřejných telefonních automatů, volání, které je bezplatné a které nevyžaduje použití jakéhokoliv platebního prostředku, na evropská harmonizovaná čísla18a). Právo podnikatele poskytujícího veřejně dostupnou telefonní službu na náhradu nákladů vůči osobě, která tato harmonizovaná čísla využívá, není dotčeno.
 
 (2) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen zajistit informování účastníků a uživatelů o existenci a podmínkách používání evropských harmonizovaných čísel, zejména způsobem umožňujícím dálkový přístup.
+
+§ 33b
+Systém veřejné výstrahy
+
+(1) Poskytovatelé mobilních interpersonálních služeb založených na číslech jsou povinni předávat dotčeným koncovým uživatelům veřejné výstrahy ohledně bezprostředních nebo vyvíjejících se závažných mimořádných situací a katastrof.
+
+(2) Podrobnosti, rozsah a formu předávaných informací podle odstavce 1 stanoví prováděcí právní předpis. 
 
 § 34
 Přenositelnost telefonních čísel
@@ -1248,7 +1255,7 @@ d) dnem, kdy rozhodnutí Úřadu podle odstavců 4 a 5 nabylo právní moci.
 § 37
 Poplatky za práva plynoucí z oprávnění k využívání čísel
 
-(1) Držitel oprávnění k využívání čísel je povinen platit za právo využívat čísla poplatky. Využívání čísel tísňového volání se nezpoplatňuje.
+(1) Držitel oprávnění k využívání čísel je povinen platit za právo využívat čísla poplatky. Využívání tísňových čísel se nezpoplatňuje.
 
 (2) Výši ročního poplatku podle odstavce 1 v rozmezí 1 Kč až 150 000 Kč za jedno přidělené číslo odstupňovaného podle druhu čísla a druhu služby elektronických komunikací stanoví vláda nařízením.
 
@@ -1400,12 +1407,12 @@ Veřejné telefonní automaty a jiné obdobné technické prostředky umožňuj�
 
 a) k veřejným telefonním automatům nebo jiným obdobným technickým prostředkům umožňujícím přístup k veřejně dostupné telefonní službě a jejich nepřetržité fungování,
 
-b) k číslům tísňových volání (§ 33) bez nutnosti použití platebních prostředků.
+b) k tísňovým službám prostřednictvím tísňové komunikace (§ 33) bez nutnosti použití platebních prostředků.
 
 § 43
 Zvláštní opatření pro zdravotně postižené osoby
 
-(1) Poskytovatel univerzální služby, jemuž byla uložena povinnost podle § 38 odst. 2 písm. f), je povinen poskytovat zdravotně postiženým osobám přístup k veřejně dostupné telefonní službě, tak aby pro ně byla cenově dostupná a umožnila rovnocenný přístup, který využívají ostatní koncoví uživatelé, včetně přístupu k číslům tísňového volání, k účastnickým seznamům, k informační službě o telefonních číslech účastníků a možnost výběru operátora nebo podnikatele poskytujícího veřejně dostupné služby elektronických komunikací.
+(1) Poskytovatel univerzální služby, jemuž byla uložena povinnost podle § 38 odst. 2 písm. f), je povinen poskytovat zdravotně postiženým osobám přístup k veřejně dostupné telefonní službě, tak aby pro ně byla cenově dostupná a umožnila rovnocenný přístup, který využívají ostatní koncoví uživatelé, včetně přístupu k tísňovým službám prostřednictvím tísňové komunikace, k účastnickým seznamům, k informační službě o telefonních číslech účastníků a možnost výběru operátora nebo podnikatele poskytujícího veřejně dostupné služby elektronických komunikací.
 
 (2) Poskytovatel univerzální služby podle odstavce 1 je povinen zdravotně postiženým osobám zejména
 
@@ -1671,13 +1678,23 @@ Poskytování veřejně dostupných služeb elektronických komunikací a zajiš
 
 (2) V případech, kdy je ohroženo nebo přerušeno nepřetržité poskytování veřejně dostupné služby elektronických komunikací, je Úřad oprávněn rozhodnout o opatřeních nezbytných k udržení nebo obnovení tohoto poskytování a v případě potřeby uloží podnikateli, který poskytuje dílčí službu podle § 38 odst. 2, aby zajistil další poskytování této dílčí služby těm uživatelům, u kterých je její nepřetržité poskytování ohroženo nebo přerušeno.
 
-(3) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen zajistit nepřetržitý přístup k číslům tísňového volání, vyjma případů uvedených v § 33 odst. 10, a k evropským harmonizovaným číslům.
+(3) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen zajistit nepřetržitý přístup k evropským harmonizovaným číslům.
 
 (4) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen vést aktuální databázi všech svých účastníků veřejně dostupné telefonní služby. Podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím mobilní sítě elektronických komunikací v této databázi vede rovněž jemu dostupné údaje o aktivovaných předplacených kartách v jeho mobilní síti. Podnikatel poskytující veřejně dostupnou telefonní službu je oprávněn pro účely databáze účastníků získávat a používat jejich rodná čísla.
 
 (5) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací neodpovídá při poskytování této služby za obsah přenášených zpráv.
 
 (6) Podnikatel poskytující veřejně dostupnou telefonní službu umožňující mezinárodní volání je povinen zajišťovat uskutečnění všech mezinárodních volání do Evropského telefonního číslovacího prostoru. Cena za tato volání musí být obdobná jako cena, kterou si tento podnikatel účtuje za volání do i z členských států Evropské unie. Právo podnikatele na úhradu nákladů za přenos těchto volání v jeho síti není tímto dotčeno.
+
+§ 61a
+
+(1) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen zajistit nepřetržitý a bezplatný přístup k tísňovým službám prostřednictvím tísňové komunikace vyjma případů uvedených v § 33 odst. 10.
+
+(2) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen volání na jednotné evropské tísňové číslo 112 a národní tísňová čísla směrovat na nejvhodnější centrum tísňové komunikace.
+
+(3) Podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím veřejné mobilní komunikační sítě je povinen krátké textové zprávy na jednotné evropské tísňové číslo 112 směrovat na nejvhodnější centrum tísňové komunikace.
+
+(4) Ustanovení odstavce 3 se užije v případě, kdy je koncový uživatel dle podmínek uzavřené smlouvy o poskytování komunikačních služeb oprávněn využívat službu odesílání krátkých textových zpráv. Ustanovení odstavce 3 se nevztahuje na služby poskytnuté v režimu mezinárodního roamingu.
 
 § 62
 
@@ -1704,7 +1721,7 @@ b) je-li uživatelem
 
 c) popis poskytované služby, zejména
 
-1. informace, zda je poskytován přístup k číslům tísňového volání, a údaje o lokalizaci volajícího na čísla tísňového volání, popřípadě o omezení přístupu k číslům tísňového volání,
+1. informace, zda je poskytován přístup k tísňovým službám prostřednictvím tísňové komunikace, a údaje o lokalizaci účastníka při tísňové komunikaci, popřípadě o omezení přístupu tísňovým službám prostřednictvím tísňové komunikace,
 
 2. informace o veškerých podmínkách omezujících přístup ke službám a aplikacím nebo možnosti jejich využívání,
 
@@ -1752,7 +1769,7 @@ r) ujednání o rozsahu možných jednostranných změn a způsobu jejich oznám
 
 a) účastníky o cenách platných pro všechna volání na čísla a služby, na něž se vztahují zvláštní cenové podmínky,
 
-b) účastníky o jakékoliv změně přístupu k číslům tísňového volání nebo změně při lokalizaci volajícího na čísla tísňového volání,
+b) účastníky o jakékoliv změně přístupu k tísňovým službám prostřednictvím tísňové komunikace nebo změně v lokalizaci účastníka při tísňové komunikaci,
 
 c) účastníky o jakékoliv změně podmínek omezujících přístup ke službám a aplikacím nebo možnosti jejich využívání,
 
@@ -1820,7 +1837,7 @@ Neplacení nebo opožděné placení účtu
 
 (1) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací je povinen před započetím poskytování služby prokazatelně upozornit účastníka na důsledky neplacení telefonních účtů. Náklady za prokazatelné upozornění hradí podnikatel poskytující veřejně dostupnou službu elektronických komunikací.
 
-(2) Nezaplatil-li účastník ve lhůtě splatnosti uvedené na vyúčtování ceny za poskytnuté služby, podnikatel uvedený v odstavci 1 jej prokazatelně upozorní a stanoví náhradní lhůtu plnění ne kratší než 1 týden ode dne dodání upozornění. Po marném uplynutí náhradní lhůty může podnikatel účastníku omezit poskytování dotčené samostatně účtované služby zamezením aktivního přístupu ke službě, s výjimkou uskutečňování volání na čísla tísňového volání. Cena za prokazatelné upozornění musí být nákladově orientovaná.
+(2) Nezaplatil-li účastník ve lhůtě splatnosti uvedené na vyúčtování ceny za poskytnuté služby, podnikatel uvedený v odstavci 1 jej prokazatelně upozorní a stanoví náhradní lhůtu plnění ne kratší než 1 týden ode dne dodání upozornění. Po marném uplynutí náhradní lhůty může podnikatel účastníku omezit poskytování dotčené samostatně účtované služby zamezením aktivního přístupu ke službě, s výjimkou přístupu k tísňovým službám prostřednictvím tísňové komunikace. Cena za prokazatelné upozornění musí být nákladově orientovaná.
 
 (3) Podnikatel uvedený v odstavci 1 může ukončit smluvní vztah nebo nezřídit účastníkovi přístup k veřejně dostupné službě elektronických komunikací v případech, kdy účastník úmyslně uvedl nesprávné osobní nebo identifikační údaje nebo soustavně opožděně platil nebo soustavně neplatil cenu za služby uvedené ve vyúčtování ceny, a to pouze po prokazatelném upozornění účastníka. Soustavným opožděným placením se pro účely tohoto ustanovení rozumí zaplacení nejméně 2 po sobě jdoucích vyúčtování ceny po lhůtě splatnosti. Soustavným neplacením se pro účely tohoto ustanovení rozumí existence nejméně 3 nezaplacených vyúčtování ceny.
 
@@ -1855,7 +1872,7 @@ a) hlášení poruch prostřednictvím jeho sítě,
 
 b) informace prostřednictvím automatických hlásek, které informují volajícího účastníka o změnách účastnických čísel v jeho síti,
 
-c) volání na čísla tísňového volání.
+c) přístup k tísňovým službám prostřednictvím tísňové komunikace a přístup k evropským harmonizovaným číslům.
 
 § 69a
 
@@ -2412,7 +2429,7 @@ d) volaného účastníka, nabídnout volanému účastníkovi možnost zamezit 
 
 a) přechodně na základě žádosti účastníka, který vyžaduje vysledování zlomyslného nebo obtěžujícího volání; v takovém případě je povinen uchovat a dotčenému účastníkovi zpřístupnit údaje obsahující identifikaci volajícího účastníka a
 
-b) zpracovávat lokalizační údaje při přenosu volání na každé číslo tísňového volání příslušného pracoviště pro příjem těchto volání, a to i přes dočasný zákaz nebo neexistenci souhlasu dotčeného účastníka.
+b) _____ zpracovávat lokalizační údaje při přenosu volání na každé číslo tísňového volání příslušného pracoviště pro příjem těchto volání, a to i přes dočasný zákaz nebo neexistenci souhlasu dotčeného účastníka. _____
 
 (5) Podnikatel zajišťující veřejnou telefonní síť nebo poskytující veřejně dostupnou telefonní službu uveřejní ve svých provozovnách a způsobem umožňujícím dálkový přístup postupy závazné pro uskutečnění obou možností uvedených v odstavci 4 a informuje o nich své účastníky.
 
@@ -2512,9 +2529,9 @@ Bezpečnost a integrita veřejných komunikačních sítí a služeb elektronick
 
 (2) Pro zajištění integrity veřejných komunikačních sítí Úřad vydává síťové plány (§ 62), ve kterých vymezí základní vlastnosti těchto sítí a jejich rozhraní, které jsou nezbytné pro vzájemné propojování veřejných komunikačních sítí, pro přístup k nim, pro připojování neveřejných komunikačních sítí a zajištění kontinuity dodávek služeb, které jsou prostřednictvím veřejných komunikačních služeb poskytovány.
 
-(3) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací může v případech, kdy hrozí nebo dojde k závažnému narušení bezpečnosti a integrity jeho sítě z důvodů poškození nebo zničení elektronického komunikačního zařízení, zejména vlivem velkých provozních havárií nebo živelních pohrom, přerušit poskytování služby nebo odepřít přístup ke službě. Přerušení nebo odepření musí být omezeno pouze na dobu nezbytně nutnou, a je-li to technicky možné, musí být zachován přístup k číslům tísňového volání.
+(3) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací může v případech, kdy hrozí nebo dojde k závažnému narušení bezpečnosti a integrity jeho sítě z důvodů poškození nebo zničení elektronického komunikačního zařízení, zejména vlivem velkých provozních havárií nebo živelních pohrom, přerušit poskytování služby nebo odepřít přístup ke službě. Přerušení nebo odepření musí být omezeno pouze na dobu nezbytně nutnou, a je-li to technicky možné, musí být zachován přístup k tísňovým službám prostřednictvím tísňové komunikace.
 
-(4) O závažném narušení bezpečnosti a ztrátě integrity sítě, rozsahu a důvodech přerušení poskytování služby nebo odepření přístupu k ní, přijatých opatřeních a o předpokládaném termínu odstranění příčiny podle odstavce 3 je podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací povinen bezodkladně informovat Úřad, subjekty provozující pracoviště pro příjem tísňového volání a vhodným způsobem i uživatele. Rozsah a formu předávání informací stanoví Úřad prováděcím právním předpisem. Úřad může v případě, že je zveřejnění těchto informací ve veřejném zájmu, informovat o tom vhodným způsobem veřejnost.
+(4) O závažném narušení bezpečnosti a ztrátě integrity sítě, rozsahu a důvodech přerušení poskytování služby nebo odepření přístupu k ní, přijatých opatřeních a o předpokládaném termínu odstranění příčiny podle odstavce 3 je podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací povinen bezodkladně informovat Úřad, subjekty provozující centra tísňové komunikace a vhodným způsobem i uživatele. Rozsah a formu předávání informací stanoví Úřad prováděcím právním předpisem. Úřad může v případě, že je zveřejnění těchto informací ve veřejném zájmu, informovat o tom vhodným způsobem veřejnost.
 
 (5) Úřad předkládá každoročně Komisi a Evropské agentuře pro bezpečnost sítí a informací (ENISA) souhrnnou zprávu za předchozí kalendářní rok, která informuje o oznámeních a opatřeních přijatých podle odstavců 3 a 4, a to v rozsahu a formátu stanoveném Komisí.
 
@@ -2527,7 +2544,7 @@ Bezpečnost, integrita a poskytování služeb za krizových stavů
 
 (2) Podnikatel uvedený v odstavci 1 je povinen předložit Úřadu na jeho vyžádání dokumenty specifikující technicko-organizační pravidla podle odstavce 1 a umožnit Úřadu kontrolovat dodržování těchto pravidel. Úřad je oprávněn při zjištění rozporu těchto dokumentů s právními předpisy sdělit dotčenému podnikateli tuto skutečnost a stanovit mu přiměřenou lhůtu k odstranění nedostatků.
 
-(3) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou telefonní službu je oprávněn při nebezpečí vzniku krizové situace a za krizového stavu39) na žádost Ministerstva vnitra poskytovat přednostně připojení k veřejné komunikační síti a přístup k veřejně dostupné telefonní službě účastníkům krizové komunikace podle zvláštního právního předpisu38). Za tímto účelem je v rozsahu nezbytně nutném oprávněn omezit nebo přerušit poskytování veřejně dostupné telefonní služby. O omezení nebo přerušení poskytování veřejně dostupné telefonní služby, včetně jeho rozsahu, je povinen bezprostředně informovat Úřad. Toto omezení může trvat pouze po dobu nezbytně nutnou a musí být zachován přístup k číslům tísňového volání.
+(3) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou telefonní službu je oprávněn při nebezpečí vzniku krizové situace a za krizového stavu39) na žádost Ministerstva vnitra poskytovat přednostně připojení k veřejné komunikační síti a přístup k veřejně dostupné telefonní službě účastníkům krizové komunikace podle zvláštního právního předpisu38). Za tímto účelem je v rozsahu nezbytně nutném oprávněn omezit nebo přerušit poskytování veřejně dostupné telefonní služby. O omezení nebo přerušení poskytování veřejně dostupné telefonní služby, včetně jeho rozsahu, je povinen bezprostředně informovat Úřad. Toto omezení může trvat pouze po dobu nezbytně nutnou a musí být zachován přístup k tísňovým službám prostřednictvím tísňové komunikace.
 
 (4) Podnikatel uvedený v odstavci 1 je za krizového stavu povinen bezodkladně informovat Úřad o ohrožení nebo narušení bezpečnosti a integrity své sítě a bezpečnosti služeb, včetně přijatých nebo zamýšlených opatření k nápravě a o předpokládaném termínu odstranění příčiny.
 
@@ -3099,31 +3116,35 @@ b) bezprostředně po skončení platnosti oprávnění k využívání čísel 
 
 (8) Podnikatel poskytující veřejně dostupnou telefonní službu se dopustí přestupku tím, že
 
-a) nezajistí uživatelům nepřetržitý přístup k číslům tísňového volání nebo k evropským harmonizovaným číslům podle § 61 odst. 3 nebo neumožní svým účastníkům bezplatné volání na tato čísla podle § 69 písm. c),
+a) nezajistí uživatelům nepřetržitý přístup k evropským harmonizovaným číslům podle § 61 odst. 3 nebo k tísňovým službám prostřednictvím tísňové komunikace podle § 61a nebo neumožní svým účastníkům bezplatný přístup k těmto číslům podle § 69 písm. c),
 
 b) nesplní povinnost ohledně přesměrování volání podle § 94 odst. 1,
 
 c) neposkytne informace z databáze účastníků podle § 97 odst. 5,
 
-d) poruší povinnost zajistit volání na evropská harmonizovaná čísla podle § 33a odst. 1,
+d) poruší povinnost umožnit bezplatný přístup k tísňovým službám prostřednictvím tísňové komunikace podle § 33 odst. 1 nebo nepředá údaje účastníků pro lokalizaci a identifikaci účastníka podle § 33 odst. 2,
 
-e) nezajistí informování účastníků a uživatelů podle § 33a odst. 2,
+e) nezajistí informování veřejnosti o existenci a používání tísňových čísel podle § 33 odst. 6.
 
-f) nevede aktuální databázi všech svých účastníků a dostupných údajů o aktivovaných předplacených kartách podle § 61 odst. 4,
+f) poruší povinnost zajistit volání na evropská harmonizovaná čísla podle § 33a odst. 1,
 
-g) nepředá dostupné osobní nebo identifikační údaje účastníků pro informační a operátorské služby podle § 66 odst. 1,
+g) nezajistí informování účastníků a uživatelů podle § 33a odst. 2,
 
-h) nezajistí službu identifikace zlomyslných nebo obtěžujících volání podle § 67,
+h) nevede aktuální databázi všech svých účastníků a dostupných údajů o aktivovaných předplacených kartách podle § 61 odst. 4,
 
-i) nesplní povinnost podle § 69 písm. a) nebo b),
+i) nepředá dostupné osobní nebo identifikační údaje účastníků pro informační a operátorské služby podle § 66 odst. 1,
 
-j) jako podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím veřejné mobilní telefonní sítě nesplní povinnost podle § 75 odst. 1 nebo 3,
+j) nezajistí službu identifikace zlomyslných nebo obtěžujících volání podle § 67,
 
-k) poruší povinnost ohledně zobrazení účastnického čísla podle § 92,
+k) nesplní povinnost podle § 69 písm. a) nebo b),
 
-l) nepředá údaje o účastnících pro účely vedení telefonních seznamů nebo pro účely informační služby podle § 41 odst. 3, nebo
+l) jako podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím veřejné mobilní telefonní sítě nesplní povinnost podle § 75 odst. 1 nebo 3,
 
-m) nezajišťuje uskutečnění všech mezinárodních volání do Evropského telefonního číslovacího prostoru podle § 61 odst. 6.
+m) poruší povinnost ohledně zobrazení účastnického čísla podle § 92,
+
+n) nepředá údaje o účastnících pro účely vedení telefonních seznamů nebo pro účely informační služby podle § 41 odst. 3, nebo
+
+o) nezajišťuje uskutečnění všech mezinárodních volání do Evropského telefonního číslovacího prostoru podle § 61 odst. 6.
 
 (9) Podnikatel zajišťující veřejnou telefonní síť se dopustí přestupku tím, že
 
@@ -3287,7 +3308,7 @@ l) neumožní připojení telekomunikačního koncového zařízení k rozhraní
 
 m) nesplní povinnost vztahující se k povinnosti umožnit velkoobchodní roamingový přístup za podmínek uvedených v přímo použitelném předpisu Evropské unie o roamingu ve veřejných mobilních komunikačních sítích v Unii65),
 
-n) bezodkladně nezpřístupní u všech volání na čísla tísňového volání subjektu, který provozuje pracoviště pro příjem těchto volání, lokalizační a jiné údaje, které umožňují identifikaci volajícího podle § 33 odst. 5.
+n) bezodkladně nezpřístupní u všech tísňových komunikací centru tísňové komunikace lokalizační údaje a jiné údaje, které umožňují identifikaci uživatele podle § 33 odst. 5.
 
 (14) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací se dopustí přestupku tím, že
 
@@ -3389,21 +3410,15 @@ c) nevyužívá přidělený rádiový kmitočet podle § 83 odst. 9 písm. c).
 
 (20) Podnikatel poskytující službu šíření digitálního rozhlasového a televizního vysílání se dopustí přestupku tím, že nezajistí ve své síti službu šíření služeb přímo souvisejících s programem podle § 83 odst. 8.
 
-(21) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací pro originaci národních volání se dopustí přestupku tím, že
+(21) Držitel přídělu rádiových kmitočtů se dopustí přestupku tím, že nesplní některou z podmínek, převzatých závazků nebo povinností uvedených podle § 22 odst. 2 v rozhodnutí o přídělu.
 
-a) poruší povinnost umožnit bezplatné volání na čísla tísňového volání podle § 33 odst. 1 nebo nepředá osobní nebo identifikační údaje účastníků pro lokalizaci, popřípadě identifikaci volajícího podle § 33 odst. 2, nebo
-
-b) nezajistí informování veřejnosti o existenci a používání čísel tísňového volání podle § 33 odst. 6.
-
-(22) Držitel přídělu rádiových kmitočtů se dopustí přestupku tím, že nesplní některou z podmínek, převzatých závazků nebo povinností uvedených podle § 22 odst. 2 v rozhodnutí o přídělu.
-
-(23) Za přestupek podle § 118 lze uložit pokutu do
+(22) Za přestupek podle § 118 lze uložit pokutu do
 
 a) 5000000 Kč, jde-li o přestupek podle odstavce 1 písm. n) až r), odstavce 2 písm. f), odstavce 3 písm. b), odstavce 5, odstavce 6 písm. g) nebo odstavce 14 písm. ae),
 
-b) 15000000 Kč nebo do výše 5 % z čistého obratu pachatele přestupku dosaženého za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 1 písm. m), odstavce 2 písm. c) až e), odstavce 3 písm. a), odstavce 8 písm. d) až m), odstavce 10 písm. j) až r), odstavce 12 písm. f) až p), odstavce 13 písm. i) až n), odstavce 14 písm. k) až ad) nebo odstavce 15,
+b) 15000000 Kč nebo do výše 5 % z čistého obratu pachatele přestupku dosaženého za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 1 písm. m), odstavce 2 písm. c) až e), odstavce 3 písm. a), odstavce 8 písm. f) až o), odstavce 10 písm. j) až r), odstavce 12 písm. f) až p), odstavce 13 písm. i) až n), odstavce 14 písm. k) až ad) nebo odstavce 15,
 
-c) 50000000 Kč nebo do výše 10 % z čistého obratu pachatele přestupku dosaženého za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 1 písm. a) až l), odstavce 2 písm. a), b), odstavce 4, odstavce 6 písm. a) až f), odstavce 7, odstavce 8 písm. a) až c), odstavce 9, odstavce 10 písm. a) až i), odstavce 11, odstavce 12 písm. a) až e), odstavce 13 písm. a) až h), odstavce 14 písm. a) až j), odstavce 16, 17, 18, 19, 20, 21 nebo 22.
+c) 50000000 Kč nebo do výše 10 % z čistého obratu pachatele přestupku dosaženého za poslední ukončené účetní období, podle toho, která z těchto hodnot je vyšší, jde-li o přestupek podle odstavce 1 písm. a) až l), odstavce 2 písm. a), b), odstavce 4, odstavce 6 písm. a) až f), odstavce 7, odstavce 8 písm. a) až e), odstavce 9, odstavce 10 písm. a) až i), odstavce 11, odstavce 12 písm. a) až e), odstavce 13 písm. a) až h), odstavce 14 písm. a) až j), odstavce 16, 17, 18, 19, 20 nebo 21.
 
 § 119
 Přestupky fyzických osob
@@ -3418,7 +3433,7 @@ c) využívá rádiové kmitočty, pro jejichž využívání je třeba oprávn�
 
 d) v rozporu s § 26 odst. 2 obsluhuje některé z vysílacích rádiových zařízení uvedených v § 26 odst. 1 bez platného průkazu odborné způsobilosti k obsluze těchto zařízení,
 
-e) uskutečňuje zlomyslná volání na číslo tísňového volání,
+e) uskutečňuje zlomyslnou komunikaci na tísňová čísla,
 
 f) využívá zvláštní ceny podle § 38, ačkoliv není osobou se zvláštními sociálními potřebami, nebo ačkoliv není osobou, jíž byla daná zvláštní cena přiznána,
 
@@ -3988,7 +4003,7 @@ Zmocnění
 
 (3) Ministerstvo vydá ve spolupráci s Ministerstvem vnitra vyhlášku k provedení § 33 odst. 9 a § 97 odst. 4.
 
-(4) Ministerstvo vnitra vydá vyhlášku k provedení § 97 odst. 5 a 9.
+(4) Ministerstvo vnitra vydá vyhlášku k provedení § 33b odst. 2 a § 97 odst. 5 a 9.
 
 (5) Úřad vydá vyhlášku k provedení § 33 odst. 4, § 44 odst. 5, § 63 odst. 3, § 64 odst. 13, § 97 odst. 7 a 12, § 98 odst. 4, § 99 odst. 1, § 113 odst. 6 a 7 a § 129 odst. 2.
 
@@ -4219,7 +4234,7 @@ Zákon č. 368/1992 Sb., o správních poplatcích, ve znění zákona č. 10/19
 
     Poznámka:
 
-    Poplatek podle této položky se nevybere, přiděluje-li správní orgán čísla pro tísňová volání, hlášení poruch, hovory s ohlašovnou národních a mezinárodních hovorů a informace (hlásky), které informují volajícího účastníka o změnách
+    Poplatek podle této položky se nevybere, přiděluje-li správní orgán ___ čísla pro tísňová volání ___, hlášení poruch, hovory s ohlašovnou národních a mezinárodních hovorů a informace (hlásky), které informují volajícího účastníka o změnách
 
     účastnických čísel.".
 
