@@ -1141,7 +1141,7 @@ b) zajistit bezodkladné a bezplatné zpřístupnění jednotlivých údajů z d
 
 (4) Podnikateli uvedenému v odstavci 3 náleží úhrada nákladů za zřízení a vedení databáze podle odstavce 3 písm. a) od subjektu, který provozuje centrum tísňové komunikace. Výši a způsob jejich úhrady stanoví prováděcí právní předpis.
 
-(5) Podnikatel zajišťující veřejnou mobilní komunikační síť je povinen u každé tísňové komunikace bezodkladně zpřístupnit centru tísňové komunikace lokalizační údaje a údaje, které umožňují identifikaci uživatele.
+(5) Podnikatel zajišťující veřejnou mobilní komunikační síť je povinen u každé tísňové komunikace bezodkladně zpřístupnit centru tísňové komunikace lokalizační údaje a údaje, které umožňují identifikaci uživatele. Pokud je v souvislosti s tísňovou komunikací telekomunikačním koncovým zařízením, z něhož je komunikace uskutečněna, automaticky vytvářena a centru tísňové komunikace odesílána textová zpráva SMS obsahující údaje o tom, kde se volající nachází, není k tomu třeba souhlasu osoby, jíž se údaje týkají.
 
 (6) Podnikatel uvedený v odstavci 1 je povinen zajistit informování veřejnosti o existenci a podmínkách používání tísňových čísel a jejich vlastnostech zajišťujících dostupnost, zejména prostřednictvím iniciativ konkrétně zaměřených na osoby cestující mezi členskými státy, v seznamech telefonních čísel účastníků veřejně dostupné telefonní služby (dále jen „účastnické seznamy“) a v místech umístění veřejných telefonních automatů. Informace podnikatel poskytuje způsobem umožňujícím dálkový přístup a ve formátu, který řeší problém různých druhů zdravotního postižení.
 
@@ -1692,9 +1692,9 @@ Poskytování veřejně dostupných služeb elektronických komunikací a zajiš
 
 (2) Podnikatel poskytující veřejně dostupnou telefonní službu je povinen volání na jednotné evropské tísňové číslo 112 a národní tísňová čísla směrovat na nejvhodnější centrum tísňové komunikace.
 
-(3) Podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím veřejné mobilní komunikační sítě je povinen krátké textové zprávy na jednotné evropské tísňové číslo 112 směrovat na nejvhodnější centrum tísňové komunikace.
+(3) Podnikatel poskytující veřejně dostupnou telefonní službu prostřednictvím veřejné mobilní komunikační sítě je povinen textové zprávy SMS na jednotné evropské tísňové číslo 112 směrovat na nejvhodnější centrum tísňové komunikace.
 
-(4) Ustanovení odstavce 3 se užije v případě, kdy je koncový uživatel dle podmínek uzavřené smlouvy o poskytování komunikačních služeb oprávněn využívat službu odesílání krátkých textových zpráv. Ustanovení odstavce 3 se nevztahuje na služby poskytnuté v režimu mezinárodního roamingu.
+(4) Ustanovení odstavce 3 se užije v případě, kdy je koncový uživatel dle podmínek uzavřené smlouvy o poskytování komunikačních služeb oprávněn využívat službu odesílání textových zpráv SMS. Ustanovení odstavce 3 se nevztahuje na služby poskytnuté v režimu mezinárodního roamingu.
 
 § 62
 
