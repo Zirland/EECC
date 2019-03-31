@@ -447,13 +447,13 @@ c) odejme osvědčení o registraci silničního vozidla a technický průkaz si
 (3) Vzor paměťové karty podniku stanoví v souladu s přímo použitelným předpisem Evropské unie1a) prováděcí právní předpis.
 
 § 7b
-Registrační značka na přání
+Registrační značka na přání a registrační značka elektrického vozidla
 
 (1) Na základě žádosti vlastníka nebo provozovatele silničního vozidla se souhlasem vlastníka lze k silničnímu vozidlu přidělit registrační značku tvořenou žadatelem zvolenou kombinací velkých písmen latinské abecedy nebo arabských číslic (dále jen „registrační značka na přání“). žádost o přidělení registrační značky na přání k silničnímu vozidlu, které není zapsané v registru silničních vozidel, lze podat nejdříve spolu se žádostí o zápis tohoto silničního vozidla do registru silničních vozidel.
 
 (2) Obecní úřad obce s rozšířenou působností registrační značku na přání přidělí, pokud
 
-a) neobsahuje hanlivé nebo pohoršující výrazy, text podněcující k nenávisti k některému národu, rase, etnické skupině, náboženství, třídě nebo jiné skupině osob, název nebo zkratku orgánu veřejné moci nebo státu,
+a) neobsahuje hanlivé nebo pohoršující výrazy, text podněcující k nenávisti k některému národu, rase, etnické skupině, náboženství, třídě nebo jiné skupině osob, název nebo zkratku orgánu veřejné moci nebo státu a není zaměnitelná s registrační značkou podle odstavce 6,
 
 b) stejná registrační značka není přidělena k jinému silničnímu vozidlu, není rezervována a tabulka s touto registrační značkou není vedena jako odcizená, ztracená nebo zničená a
 
@@ -465,7 +465,15 @@ c) splňuje požadavky na formu a strukturu registrační značky na přání.
 
 (5) Pokud osoba, na jejíž žádost byla registrační značka na přání rezervována, podá do 6 měsíců od provedení rezervace žádost o přidělení této značky podle odstavce 1, obecní úřad obce s rozšířenou působností žádosti vyhoví. Není-li v této lhůtě žádost podána, rezervace zaniká.
 
-(6) Prováděcí právní předpis stanoví požadavky na formu a strukturu registrační značky na přání, provedení tabulky s registrační značkou na přání a způsob umístění tabulky na silničním vozidle.
+(6) Na základě žádosti vlastníka nebo provozovatele silničního vozidla se souhlasem vlastníka lze k silničnímu vozidlu přidělit registrační značku tvořenou velkými písmeny „EL“ následovanými kombinací velkých písmen latinské abecedy a arabských číslic (dále jen „registrační značka elektrického vozidla“), jde-li o silniční vozidlo používající jako palivo elektrickou energii nebo vodík
+
+1. výlučně, nebo
+
+2. v kombinaci s jiným palivem, je-li hodnota emisí CO2 v kombinovaném provozu nejvýše 50 g/km.
+
+(7) Žádost o přidělení registrační značky elektrického vozidla k silničnímu vozidlu, které není zapsané v registru silničních vozidel, lze podat nejdříve spolu se žádostí o zápis tohoto silničního vozidla do registru silničních vozidel. Tabulky s přidělenou registrační značkou elektrického vozidla vydá obecní úřad obce s rozšířenou působností žadateli do 15 dnů ode dne podání žádosti. Před vydáním tabulek s přidělenou registrační značkou elektrického vozidla žadatel odevzdá obecnímu úřadu obce s rozšířenou působností tabulky s přidělenou registrační značkou, pokud byly k silničnímu vozidlu vydány.
+
+(8) Prováděcí právní předpis stanoví požadavky na formu a strukturu registrační značky na přání a registrační značky elektrického vozidla, provedení tabulky s registrační značkou na přání a registrační značkou elektrického vozidla a způsob umístění tabulky na silničním vozidle.
 
 § 7c
 
@@ -487,7 +495,7 @@ b) rezervaci této registrační značky na přání na dobu 3 měsíce ode dne 
 
 a) k umístění na nosné zařízení připojitelné k silničnímu vozidlu, nebo
 
-b) v případě poškození tabulky s přidělenou registrační značkou nebo registrační značkou na přání.
+b) v případě poškození tabulky s přidělenou registrační značkou.
 
 (2) K žádosti podle odstavce 1 písm. b) přiloží žadatel poškozenou tabulku s přidělenou registrační značkou.
 
@@ -499,7 +507,7 @@ b) v případě poškození tabulky s přidělenou registrační značkou nebo r
 
 (2) Pokud bylo k silničnímu vozidlu vydáno více tabulek s přidělenou registrační značkou, odevzdá vlastník nebo provozovatel silničního vozidla tabulky, které nebyly ztraceny, zničeny nebo odcizeny, spolu s oznámením podle odstavce 1.
 
-(3) Obecní úřad obce s rozšířenou působností na základě oznámení podle odstavce 1 přidělí silničnímu vozidlu novou registrační značku a vydá tabulky s touto značkou; je-li současně s oznámením podána žádost o přidělení registrační značky na přání, postupuje podle § 7b.
+(3) Obecní úřad obce s rozšířenou působností na základě oznámení podle odstavce 1 přidělí silničnímu vozidlu novou registrační značku a vydá tabulky s touto značkou; je-li současně s oznámením podána žádost podle § 7b, postupuje se přiměřeně podle něj.
 
 (4) Prováděcí právní předpis stanoví vzor oznámení podle odstavce 1.
 
@@ -1505,6 +1513,8 @@ b) 1 roku ode dne provedení technické prohlídky pro účely zápisu silničn�
 
 c) 4 let ode dne provedení technické prohlídky pro účely zápisu silničního vozidla do registru silničních vozidel a poté pravidelně ve lhůtě 4 let ode dne provedení předchozí pravidelné technické prohlídky, jde-li o silniční vozidlo uvedené v odstavci 3.
 
+(6) Má-li provozovatel silničního motorového vozidla kategorií uvedených v § 40 zpřístupněnu datovou schránku35), ministerstvo 60 dnů před skončením platnosti technické prohlídky vozidla ve lhůtách stanovených pro jeho pravidelnou technickou prohlídku vyrozumí držitele prostřednictvím datové schránky o skončení platnosti pravidelné technické prohlídky podle § 40 odst. 1 až 3.
+
 § 41, § 42
 zrušeno
 
@@ -2321,7 +2331,7 @@ b) vydává osvědčení k provozování stanice technické kontroly.
 
 a) rozhoduje o zápisu silničního vozidla do registru vozidel, provádí zápisy změn údajů zapisovaných v registru,
 
-b) přiděluje silničním motorovým vozidlům registrační značku, zvláštní registrační značku nebo registrační značku na přání a vydává tabulky s registrační značkou,
+b) přiděluje silničním motorovým vozidlům registrační značku nebo zvláštní registrační značku a vydává tabulky s registrační značkou,
 
 c) vydává osvědčení o registraci a technický průkaz silničního vozidla nebo technické osvědčení silničního vozidla,
 
@@ -2736,7 +2746,7 @@ Přechodná ustanovení
 § 91
 Závěrečná ustanovení
 
-(1) Ministerstvo vydá vyhlášku k provedení § 2 odst. 5 až 8, § 2 odst. 10 a 11, § 3 odst. 4, § 4 odst. 7, § 5 odst. 9, § 6 odst. 7, § 7 odst. 6, § 7a odst. 3, § 7b odst. 6, § 7d odst. 3, § 7e odst. 4, § 7f odst. 3, § 9 odst. 4, § 12 odst. 9, § 13 odst. 7, § 14 odst. 3, § 14a odst. 6, § 16 odst. 9, § 17 odst. 7, § 19 odst. 3, § 20 odst. 4, § 21 odst. 4, § 23 odst. 4, § 24 odst. 5, § 26 odst. 4, § 27 odst. 6, § 28 odst. 1 písm. d), m) a p), § 28d odst. 1 a 2, § 31 odst. 1 a 3, § 33 odst. 2, § 33b odst. 1, § 33c, § 36 odst. 2, § 38 odst. 3, § 38c odst. 6, § 38d odst. 4, § 47 odst. 3, § 48 odst. 7, § 48a odst. 4, § 53 odst. 2, § 54 odst. 4 a 12, § 57 odst. 5, § 58 odst. 3, § 59b odst. 8, § 60 odst. 5, § 62 odst. 3, § 63 odst. 5, § 72 odst. 6, § 74 odst. 1, § 75 odst. 2 a 3, § 76 odst. 1, § 78 odst. 1 a 3, § 79 odst. 8, § 79a odst. 6, § 79b odst. 7, § 79c odst. 4, § 82 odst. 1 a § 87.
+(1) Ministerstvo vydá vyhlášku k provedení § 2 odst. 5 až 8, § 2 odst. 10 a 11, § 3 odst. 4, § 4 odst. 7, § 5 odst. 9, § 6 odst. 7, § 7 odst. 6, § 7a odst. 3, § 7b odst. 8, § 7d odst. 3, § 7e odst. 4, § 7f odst. 3, § 9 odst. 4, § 12 odst. 9, § 13 odst. 7, § 14 odst. 3, § 14a odst. 6, § 16 odst. 9, § 17 odst. 7, § 19 odst. 3, § 20 odst. 4, § 21 odst. 4, § 23 odst. 4, § 24 odst. 5, § 26 odst. 4, § 27 odst. 6, § 28 odst. 1 písm. d), m) a p), § 28d odst. 1 a 2, § 31 odst. 1 a 3, § 33 odst. 2, § 33b odst. 1, § 33c, § 36 odst. 2, § 38 odst. 3, § 38c odst. 6, § 38d odst. 4, § 47 odst. 3, § 48 odst. 7, § 48a odst. 4, § 53 odst. 2, § 54 odst. 4 a 12, § 57 odst. 5, § 58 odst. 3, § 59b odst. 8, § 60 odst. 5, § 62 odst. 3, § 63 odst. 5, § 72 odst. 6, § 74 odst. 1, § 75 odst. 2 a 3, § 76 odst. 1, § 78 odst. 1 a 3, § 79 odst. 8, § 79a odst. 6, § 79b odst. 7, § 79c odst. 4, § 82 odst. 1 a § 87.
 
 (2) Ministerstvo životního prostředí vydá vyhlášku k provedení § 37 odst. 1 písm. b).
 
