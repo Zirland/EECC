@@ -29,7 +29,7 @@ a) závažným postižením zdraví náhle vzniklé onemocnění, úraz nebo jin
 
 b) přímým ohrožením života náhle vzniklé onemocnění, úraz nebo jiné zhoršení zdravotního stavu, které vede nebo bez neprodleného poskytnutí zdravotnické záchranné služby by mohlo vést k náhlému selhání některé ze základních životních funkcí lidského organismu,
 
-c) tísňovou výzvou vyhodnocené volání na národní číslo tísňového volání 155 nebo výzva předaná operačním střediskem jiné složky integrovaného záchranného systému,
+c) tísňovou výzvou vyhodnocená tísňová komunikace na národní číslo tísňového volání 155 nebo výzva předaná operačním střediskem jiné složky integrovaného záchranného systému,
 
 d) cílovým poskytovatelem akutní lůžkové péče nejblíže dostupný poskytovatel akutní lůžkové péče, který je způsobilý odborně zajistit pokračování poskytování zdravotní péče pacientovi, odpovídající závažnosti postižení zdraví nebo přímému ohrožení života,
 
@@ -40,9 +40,9 @@ Vymezení zdravotnické záchranné služby
 
 Zdravotnická záchranná služba zahrnuje tyto činnosti:
 
-a) nepřetržitý kvalifikovaný bezodkladný příjem volání na národní číslo tísňového volání 155 a výzev předaných operačním střediskem jiné základní složky integrovaného záchranného systému (dále jen „tísňové volání“) operátorem zdravotnického operačního střediska nebo pomocného operačního střediska,
+a) nepřetržitý kvalifikovaný bezodkladný příjem tísňové komunikace na národní číslo 155 a výzev předaných operačním střediskem jiné základní složky integrovaného záchranného systému (dále jen „tísňová komunikace na číslo 155“) operátorem zdravotnického operačního střediska nebo pomocného operačního střediska,
 
-b) vyhodnocování stupně naléhavosti tísňového volání, rozhodování o nejvhodnějším okamžitém řešení tísňové výzvy podle zdravotního stavu pacienta, rozhodování o vyslání výjezdové skupiny, rozhodování o přesměrování výjezdové skupiny a operační řízení výjezdových skupin,
+b) vyhodnocování stupně naléhavosti tísňové komunikace na číslo 155, rozhodování o nejvhodnějším okamžitém řešení tísňové výzvy podle zdravotního stavu pacienta, rozhodování o vyslání výjezdové skupiny, rozhodování o přesměrování výjezdové skupiny a operační řízení výjezdových skupin,
 
 c) řízení a organizaci přednemocniční neodkladné péče na místě události a spolupráci s velitelem zásahu složek integrovaného záchranného systému,
 
@@ -149,7 +149,7 @@ Zdravotnické operační středisko a pomocné operační středisko
 
 (2) Operačním řízením se pro účely tohoto zákona rozumí zejména
 
-a) příjem a vyhodnocení tísňových volání,
+a) příjem a vyhodnocení tísňové komunikace na číslo 155,
 
 b) převzetí a vyhodnocení výzev a vyrozumění přijatých od základních složek integrovaného záchranného systému a od orgánů krizového řízení2),
 
@@ -400,9 +400,9 @@ Odchodné
 (6) Odchodné není složkou platu nebo mzdy a nezapočítává se pro účely zjišťování průměrného výdělku podle zákoníku práce.
 
 § 29
-Využití jednotného evropského čísla tísňového volání
+Tísňová komunikace
 
-Tímto zákonem nejsou dotčeny podmínky pro využití jednotného evropského čísla tísňového volání 112.
+Tímto zákonem nejsou dotčeny podmínky pro realizaci tísňové komunikace prostřednictvím jednotného evropského tísňového čísla 112, jakož i národních tísňových čísel, včetně zajištění rovnocenného přístupu pro osoby se zdravotním postižením.
 
 § 30
 Zmocňovací ustanovení

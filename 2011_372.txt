@@ -404,7 +404,7 @@ c) jsou splněny podmínky uvedené v odstavci 1 písm. f) až j),
 
 d) netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. b) až e),
 
-e) byla zřízena krajem jako příspěvková organizace podle zákona o zdravotnické záchranné službě a je oprávněna využívat linku národního čísla tísňového volání 155, jde-li o poskytování zdravotnické záchranné služby.
+e) byla zřízena krajem jako příspěvková organizace podle zákona o zdravotnické záchranné službě a je oprávněna využívat linku národního čísla tísňového volání 155 pro tísňovou komunikaci, jde-li o poskytování zdravotnické záchranné služby.
 
 (4) Oprávnění k poskytování zdravotních služeb nelze převést ani nepřechází na jinou osobu. Jiná osoba může na základě oprávnění poskytovat zdravotní služby, jen pokračuje-li v poskytování zdravotních služeb podle § 27.
 
@@ -498,7 +498,7 @@ c) je-li žadatelem právnická osoba
 
 4. doklady uvedené v písmenu a) bodech 3 až 10,
 
-5. v případě poskytování zdravotnické záchranné služby doklad o tom, že žadatel byl zřízen krajem jako příspěvková organizace podle zákona o zdravotnické záchranné službě a doklad, z něhož vyplývá oprávnění žadatele využívat linku národního čísla tísňového volání 155,
+5. v případě poskytování zdravotnické záchranné služby doklad o tom, že žadatel byl zřízen krajem jako příspěvková organizace podle zákona o zdravotnické záchranné službě a doklad, z něhož vyplývá oprávnění žadatele využívat linku národního čísla tísňového volání 155 pro tísňovou komunikaci,
 
 6. prohlášení, že u žadatele netrvá žádná z překážek pro udělení oprávnění uvedených v § 17 písm. b) a c) a písemný souhlas předběžného insolvenčního správce nebo insolvenčního správce v případě, kdy nevydání tohoto souhlasu by bylo překážkou pro udělení oprávnění uvedenou v § 17 písm. d) nebo e).
 

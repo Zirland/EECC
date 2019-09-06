@@ -116,7 +116,7 @@ a) je správním úřadem s působností v územním obvodu příslušného vyš
 
 b) plní úkoly vyplývající z jiných právních předpisů.
 
-(5) Hasičský záchranný sbor kraje zřizuje operační a informační středisko, které plní úkoly operačního a informačního střediska integrovaného záchranného systému1) a další úkoly, stanoví-li tak jiný právní předpis. Operační a informační středisko je pracovištěm pro příjem volání na jednotné evropské číslo tísňového volání (112) a národní číslo tísňového volání stanovené v číslovacím plánu podle zákona o elektronických komunikacích.
+(5) Hasičský záchranný sbor kraje zřizuje operační a informační středisko, které plní úkoly operačního a informačního střediska integrovaného záchranného systému1) a další úkoly, stanoví-li tak jiný právní předpis. Operační a informační středisko je pracovištěm pro příjem volání na jednotné evropské číslo tísňového volání (112) a národní číslo tísňového volání 150, 155 a 158.
 
 (6) Hasičský záchranný sbor kraje může zřídit a provozovat pro plnění úkolů hasičského záchranného sboru vzdělávací, technická nebo jiná účelová zařízení; tato zařízení jsou organizační částí hasičského záchranného sboru kraje.
 
@@ -368,7 +368,7 @@ Získávání informací z evidencí
 § 32
 Předávání záznamu volání
 
-Záznam volání na číslo tísňového volání může hasičský záchranný sbor předat složce integrovaného záchranného systému, je-li potřebný k plnění konkrétního úkolu. Záznam tohoto volání lze předat i orgánu veřejné moci na jeho písemnou žádost v rozsahu nezbytném pro výkon působnosti tohoto orgánu.
+Záznam tísňové komunikace na tísňová čísla může hasičský záchranný sbor předat složce integrovaného záchranného systému, je-li potřebný k plnění konkrétního úkolu. Tento záznam lze předat i orgánu veřejné moci na jeho písemnou žádost v rozsahu nezbytném pro výkon působnosti tohoto orgánu.
 
 § 33
 Prokázání totožnosti
@@ -409,7 +409,7 @@ Hasičský záchranný sbor může přiměřeným způsobem zveřejňovat osobn�
 
 § 38
 
-(1) Hasičský záchranný sbor vede seznam osob, které používají zvláštní způsob tísňového volání nebo při jejichž záchraně je nutno uplatnit zvláštní pravidla a postupy (dále jen „seznam osob“).
+(1) Hasičský záchranný sbor vede seznam osob, které používají zvláštní způsob tísňové komunikace nebo při jejichž záchraně je nutno uplatnit zvláštní pravidla a postupy (dále jen „seznam osob“).
 
 (2) O zařazení do seznamu osob může požádat osoba se zdravotním postižením nebo její zákonný zástupce. Součástí žádosti je souhlas se zpracováváním osobních údajů osoby se zdravotním postižením v rozsahu jméno, popřípadě jména, příjmení, datum narození, adresa místa trvalého pobytu nebo adresa místa hlášeného pobytu na území České republiky, jde-li o cizince, popřípadě též adresa místa, kde se dlouhodobě zdržuje, a druh zdravotního postižení. Součástí žádosti je i telefonní číslo žadatele. Platnost souhlasu skončí vyřazením osoby ze seznamu osob.
 
@@ -417,7 +417,7 @@ Hasičský záchranný sbor může přiměřeným způsobem zveřejňovat osobn�
 
 (4) Žádost o zařazení a žádost o vyřazení ze seznamu osob lze podat písemně nebo osobně hasičskému záchrannému sboru kraje příslušnému podle místa trvalého pobytu osoby se zdravotním postižením.
 
-(5) Hasičský záchranný sbor a další základní složky integrovaného záchranného systému mohou využít údaje obsažené v seznamu osob při příjmu tísňového volání, při provádění záchranných a likvidačních prací nebo při plnění úkolů ochrany obyvatelstva.
+(5) Hasičský záchranný sbor a další základní složky integrovaného záchranného systému mohou využít údaje obsažené v seznamu osob při příjmu tísňové komunikace, při provádění záchranných a likvidačních prací nebo při plnění úkolů ochrany obyvatelstva.
 
 § 39
 

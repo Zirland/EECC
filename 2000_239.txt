@@ -164,7 +164,19 @@ c) informuje příslušné mezinárodní organizace o silách a prostředcích �
 
 (6) Ministerstvo vnitra je oprávněno vyžádat si účast zástupců ostatních ministerstev a zástupců složek uvedených v § 4 odst. 2 a popřípadě jiných odborníků při přípravě na mimořádné události a při provádění záchranných a likvidačních prací.
 
-(7) Ministerstvo vnitra určí způsob zajištění nepřetržité obsluhy telefonní linky jednotného evropského čísla tísňového volání.
+(7) Ministerstvo vnitra
+
+a) zajištuje příjem a zodpovězení tísňové komunikace prostřednictvím jednotného evropského čísla tísňového volání 112,
+
+b) koordinuje a rozvíjí tísňovou komunikaci za účelem přístupu všech k základním složkám integrovaného záchranného systému prostřednictvím jednotného evropského čísla tísňového volání 112, jakož i národních tísňových čísel 150, 155 a 158,
+
+c) přijímá vhodná opatření, aby osoby se zdravotním postižením měli prostřednictvím tísňové komunikace přístup k základním složkám integrovaného záchranného systému za rovnocenných podmínek jako ostatní osoby, a to i při cestách v jiném členském státě Evropské unie,
+
+d) sbírá informace o kvalitě a využívání tísňové komunikace prostřednictvím jednotného evropského čísla tísňového volání 112, jakož i národních tísňových čísel 150, 155 a 158,
+
+e) spolupracuje v oblasti tísňové komunikace s Ministerstvem průmyslu a obchodu, Ministerstvem zdravotnictví a Českým telekomunikačním úřadem,
+
+f) zajišťuje systém veřejné výstrahy podle jiného právního předpisu29).
 
 (8) Prováděcí právní předpis stanoví
 
@@ -371,7 +383,7 @@ Komunikace složek integrovaného záchranného systému
 
 (2) Ministerstvo vnitra je povinno umožnit orgánům a složkám uvedeným v odstavci 1 krizovou komunikaci v účelové telekomunikační síti Ministerstva vnitra.
 
-(3) Poskytovatelé služeb v oblasti komunikací jsou povinni spolupracovat s Ministerstvem vnitra při přípravě a řešení způsobu krizové komunikace a jednotného evropského čísla tísňového volání (§ 7 odst. 6).
+(3) Podnikatelé zajišťující síť elektronických komunikací nebo poskytující službu elektronických komunikací jsou povinni spolupracovat s Ministerstvem vnitra při přípravě a řešení způsobu krizové komunikace a jednotného evropského čísla tísňového volání 112, jakož i národních tísňových čísel 150, 155 a 158.
 
 (4) Prováděcí právní předpis stanoví
 
@@ -839,3 +851,5 @@ Nařízení vlády č. 108/1994 Sb., kterým se provádí zákoník práce a ně
 27) § 17 zákona č. 374/2011 Sb., o zdravotnické záchranné službě.
 
 28) Nařízení Evropského parlamentu a Rady (EU) č. 347/2013 ze dne 17. dubna 2013, kterým se stanoví hlavní směry pro transevropské energetické sítě a kterým se zrušuje rozhodnutí č. 1364/2006/ES a mění nařízení (ES) č. 713/2009, (ES) č. 714/2009 a (ES) č. 715/2009.
+
+29) § 33b zákona č. 127/2005 Sb., o elektronických komunikacích.
